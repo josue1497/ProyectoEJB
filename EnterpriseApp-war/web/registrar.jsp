@@ -17,8 +17,8 @@
             CI: <input type="text" name="CI" id="CI" placeholder="Cedula de Identidad"/><br>
             Nombre: <input type="text" name="nombre" id="nombre" placeholder="Ingrese nombre"/><br>
             Edad: <input type="text" name="edad" id="edad" placeholder="Ingrese su Edad"/><br>
-            Sexo: Masculino <input type="radiobutton" name="genero" id="genero" value="Masculino" placeholder="Ingrese nombre"/>
-             Femenino <input type="radiobutton" name="genero" id="genero" value="Masculino" placeholder="Ingrese nombre"/><br>
+            Sexo: Masculino <input type="radio" name="genero" id="genero" value="Masculino" />
+             Femenino <input type="radio" name="genero" id="genero" value="Masculino"/><br>
              <input type="submit" value="Registrar"/>
 
         </form>        
